@@ -9,6 +9,10 @@ public class if_2753 {
 
         int A = sc.nextInt();
 
-
+        if ((A % 4 == 0 && A % 100 != 0) || (A % 400 == 0)) {
+            System.out.println("1");
+        } else {
+            System.out.println("0");
+        }
     }
 }

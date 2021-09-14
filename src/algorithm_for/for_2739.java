@@ -1,2 +1,15 @@
-package algorithm_for;public class for_2739 {
+package algorithm_for;
+
+import java.util.Scanner;
+
+public class for_2739 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int a = sc.nextInt();
+
+        for(int i =1 ; i<=9; i++){
+            System.out.println(a+"*"+i+"="+(a*i));
+        }
+    }
 }

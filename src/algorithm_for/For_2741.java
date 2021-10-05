@@ -2,7 +2,7 @@ package algorithm_for;
 
 import java.io.*;
 
-public class for_2741 {
+public class For_2741 {
     public static void main(String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

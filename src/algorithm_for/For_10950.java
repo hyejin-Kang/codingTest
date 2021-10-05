@@ -2,7 +2,7 @@ package algorithm_for;
 
 import java.util.Scanner;
 
-public class for_10950 {
+public class For_10950 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

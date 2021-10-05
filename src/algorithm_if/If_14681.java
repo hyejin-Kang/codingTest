@@ -2,7 +2,7 @@ package algorithm_if;
 
 import java.util.Scanner;
 
-public class if_14681 {
+public class If_14681 {
 
     public static void main(String[] args) {
 
